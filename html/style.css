@@ -1,0 +1,136 @@
+body {
+  font-family: helvetica;
+  margin: 0;
+}
+.color-main {
+  color: rgb(81, 54, 236);
+}
+.color-white {
+  color: white;
+}
+.text-center {
+  text-align: center;
+}
+.bg-main {
+  background-color: rgb(81, 54, 236);
+}
+
+nav {
+  display: flex;
+  width: 50%;
+  margin: auto;
+  justify-content: space-between;
+  align-items: center;
+}
+.nav-links {
+  display: flex;
+  justify-content: space-around;
+  list-style: none;
+  width: 500px;
+}
+.logo {
+  background: white;
+  border-radius: 100px;
+  width: 50px;
+  padding: 10px 0;
+  color: rgb(81, 54, 236);
+}
+a {
+  text-decoration: none;
+  color: white;
+  font-size: 20px;
+  padding: 10px 20px;
+}
+a:hover {
+  background-color: white;
+  border-radius: 100px;
+  color: blue;
+}
+#hero-title {
+  font-size: 64px;
+  font-weight: 700;
+  letter-spacing: 3px;
+  margin: 7% 0 1% 0;
+}
+#hero-subtitle {
+  width: 50%;
+  margin: 0 auto;
+}
+
+#btn-hero {
+  margin: 50px auto;
+  display: block;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 100px;
+  font-size: 18px;
+}
+#btn-hero:hover {
+  border: 1px solid rgb(81, 54, 236);
+  background-color: white !important;
+  color: rgb(81, 54, 236);
+}
+.container {
+  width: 80%;
+  margin: auto;
+}
+
+.content {
+  display: flex;
+  max-width: 100%;
+  justify-content: space-between;
+  margin-top: 5%;
+}
+.content .left {
+  width: 50%;
+}
+.content .right {
+  width: 50%;
+}
+.content .right img {
+  width: 70%;
+  display: block;
+  margin: 10% 0 0 auto;
+  border: 5px solid rgb(81, 54, 236);
+  border-radius: 5px;
+}
+.content .right input[type="text"] {
+  border: 2px solid rgb(81, 54, 236);
+  padding: 5px 3%;
+  margin: 5px 0;
+  font-size: 18px;
+  color: rgb(81, 54, 236);
+}
+
+.content .right input {
+  border-radius: 5px;
+}
+
+textarea {
+  border: 2px solid rgb(81, 54, 236);
+  padding: 5px 3%;
+  font-size: 18px;
+  color: rgb(81, 54, 236);
+}
+
+.content .right input[type="submit"] {
+  border: 2px solid rgb(81, 54, 236);
+  padding: 5px 3%;
+  margin: 5px 0;
+  font-size: 18px;
+  background-color: rgb(81, 54, 236);
+  color: white;
+}
+.content .right input[type="submit"]:hover {
+  color: rgb(81, 54, 236);
+  background-color: white;
+}
+
+.services{
+  margin-top: 20%;
+}
+.services h1{
+  padding-top: 48px;
+  font-size: 48px;
+  letter-spacing: 2px;
+}

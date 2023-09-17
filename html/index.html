@@ -3,23 +3,35 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Hello world!</title>
-    <button onclick="btnPress()">Pencet Aku!</button>
+    <title>MozalSoap</title>
+    <link rel="stylesheet" href="style.css" />
   </head>
-  <body id="bg">
-    <h1 id="h1">Hello world!</h1>
-    <script>
-      var x = 1;
-      function btnPress() {
-        x += 1;
-        if (x % 2 == 0) {
-          document.getElementById("h1").style.color = "red";
-          document.getElementById("bg").style.backgroundColor = "white";
-        } else {
-          document.getElementById("h1").style.color = "white";
-          document.getElementById("bg").style.backgroundColor = "red";
-        }
-      }
-    </script>
+  <body>
+    <div class="bg-main">
+      <nav>
+        <h1 class="logo text-center">MS</h1>
+
+        <ul class="nav-links">
+          <li><a href="#">Home</a></li>
+          <li><a href="about.html">About</a></li>
+          <li><a href="contact.html">Contact Us</a></li>
+        </ul>
+      </nav>
+    </div>
+      <div class="hero">
+        <h1 id="hero-title" class="color-main text-center">MozalSoap</h1>
+        <p id="hero-subtitle" class="color-main text-center">
+          Andalan anda sebagai pilihan sabun yang bermutu, berhigenis, dan
+          berkelas. Untuk apa beli lifebuoy, detol, dll. apabila ada kami? anjay
+        </p>
+
+        <button class="text-center bg-main color-white" id="btn-hero">Find Out More!</button>
+      </div>
+      <div class="services bg-main">
+        <h1 class="color-white text-center">Services</h1>
+        <p class="text-center color-white">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Autem delectus sit voluptatibus cupiditate nisi sapiente rem tempora ab aspernatur quidem!</p>
+      </div>
+      <div class="products"></div>
+      <footer></footer>
   </body>
 </html>
