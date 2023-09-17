@@ -11,10 +11,12 @@
 4. [Percobaan 4 : HTML Link](/workshop_web/html/try4.html)
 5. [Percobaan 5 : HTML Images](/workshop_web/html/try5.html)
 6. [Percobaan 6 : HTML Styles](/workshop_web/html/try6.html)
+
 ### E. Latihan
 > Buatlah website berita / cerita dengan cara merubah font, background, aset gambar berdasarkan kreativitas masing-masing!
 
 [Cerita Kehidupan Saya](/workshop_web/html/latihan.html)
+
 ### F. Tugas
 > Buatlah web homepage minimal 3 page dengan saling terkoneksi seperti contoh berikut ini menggunakan HTML.
 
