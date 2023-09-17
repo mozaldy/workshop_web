@@ -1,5 +1,12 @@
 # Repository Workshop Web
-## Mohammad Rizaldy Ramadhan
+### Mohammad Rizaldy Ramadhan
 ### Politeknik Elektronika Negeri Surabaya
-###[E. Latihan](/workshop_web/html/latihan.html)
-###[F. Tugas](/workshop_web/html/)
+
+---
+
+### D. Percobaan
+[Percobaan 1](/workshop_web/html/latihan.html)
+### E. Latihan
+[Cerita Kehidupan Saya](/workshop_web/html/latihan.html)
+### F. Tugas
+[MozalSoap - Company Profile Perusahaan Sabun](/workshop_web/html/)
