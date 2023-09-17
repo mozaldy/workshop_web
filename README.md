@@ -1,1 +1,3 @@
-# workshop_web
+# Repository Workshop Web
+## Mohammad Rizaldy Ramadhan
+### Politeknik Elektronika Negeri Surabaya
