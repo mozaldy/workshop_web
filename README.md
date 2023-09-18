@@ -13,6 +13,10 @@
     - [E. Latihan](#e-latihan)
     - [F. Tugas](#f-tugas)
   - [Praktikum 4: Desain dan Web HTML](#praktikum-4-desain-dan-web-html)
+    - [Percobaan](#percobaan)
+    - [Latihan](#latihan)
+    - [Tugas](#tugas)
+
 ## Praktikum 3: Konsep Fundamental HTML
 ### D. Percobaan
 1. [Percobaan 1 : Melakukan Hello World](https://mozaldy.github.io/workshop_web/html/try1.html)
@@ -33,3 +37,7 @@
 [MozalSoap - Company Profile Perusahaan Sabun](https://mozaldy.github.io/workshop_web/html/)
 
 ## Praktikum 4: Desain dan Web HTML
+### Percobaan
+
+### Latihan
+### Tugas
