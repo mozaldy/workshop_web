@@ -1,9 +1,19 @@
-# Repository Workshop Web
-### Mohammad Rizaldy Ramadhan
-### Politeknik Elektronika Negeri Surabaya
+# Repository praktikum Desain Workshop Web
+
+`Mohammad Rizaldy Ramadhan`
+
+`Politeknik Elektronika Negeri Surabaya`
 
 ---
-
+## Daftar Isi
+- [Repository praktikum Desain Workshop Web](#repository-praktikum-desain-workshop-web)
+  - [Daftar Isi](#daftar-isi)
+  - [Praktikum 3: Konsep Fundamental HTML](#praktikum-3-konsep-fundamental-html)
+    - [D. Percobaan](#d-percobaan)
+    - [E. Latihan](#e-latihan)
+    - [F. Tugas](#f-tugas)
+  - [Praktikum 4: Desain dan Web HTML](#praktikum-4-desain-dan-web-html)
+## Praktikum 3: Konsep Fundamental HTML
 ### D. Percobaan
 1. [Percobaan 1 : Melakukan Hello World](/workshop_web/html/try1.html)
 2. [Percobaan 2 : HTML Heading](/workshop_web/html/try2.html)
@@ -21,3 +31,5 @@
 > Buatlah web homepage minimal 3 page dengan saling terkoneksi seperti contoh berikut ini menggunakan HTML.
 
 [MozalSoap - Company Profile Perusahaan Sabun](/workshop_web/html/)
+
+## Praktikum 4: Desain dan Web HTML
