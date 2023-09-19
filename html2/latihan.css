@@ -2,6 +2,8 @@
   font-family: Arial, Helvetica, sans-serif;
   background-color: tomato;
   color: white;
+  transition: 0.5s;
+
 }
 .container {
   text-align: center;
@@ -16,7 +18,7 @@ header {
 }
 header input {
   border: 2px solid white;
-  border-radius: 20px;
+  border-radius: 50px;
   font-size: 18px;
 }
 header input[type="text"] {
@@ -51,7 +53,6 @@ h2 {
 video, .video-container {
   border: 3px solid tomato;
   border-radius: 10px;
-  transition: 0.5s;
 }
 video:hover{
     border: 3px solid white;
