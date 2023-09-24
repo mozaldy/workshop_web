@@ -50,4 +50,4 @@
 [Latihan: Web Nonton Anime Bajakan](https://mozaldy.github.io/workshop_web/html2/latihan.html)
 
 ### F. Tugas
-[Latihan: Fast Access Web Menu](https://mozaldy.github.io/workshop_web/html2/tugas.html)
+[Tugas: Fast Access Web Menu](https://mozaldy.github.io/workshop_web/html2/tugas.html)
