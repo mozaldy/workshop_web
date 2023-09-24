@@ -44,6 +44,7 @@
 4. [Percobaan 4 : HTML ID](https://mozaldy.github.io/workshop_web/html2/try4.html)
 5. [Percobaan 5 : HTML Iframes](https://mozaldy.github.io/workshop_web/html2/try5.html)
 6. [Percobaan 6 : HTML Form & Input](https://mozaldy.github.io/workshop_web/html2/try6.html)
+7. [Percobaan 7 : HTML Media](https://mozaldy.github.io/workshop_web/html2/try7.html)
 
 ### E. Latihan
 ### F. Tugas
