@@ -16,6 +16,9 @@
     - [D. Percobaan](#d-percobaan-1)
     - [E. Latihan](#e-latihan-1)
     - [F. Tugas](#f-tugas-1)
+  - [Praktikum 5: CSS dan Framework](#praktikum-5-css-dan-framework)
+    - [D. Percobaan](#d-percobaan-2)
+    - [F. Tugas](#f-tugas-2)
 
 ## Praktikum 3: Konsep Fundamental HTML
 ### D. Percobaan
@@ -51,3 +54,19 @@
 
 ### F. Tugas
 [Latihan: Fast Access Web Menu](https://mozaldy.github.io/workshop_web/html2/tugas.html)
+
+## Praktikum 5: CSS dan Framework
+### D. Percobaan
+1. [Percobaan 1 : Hello world CSS](https://mozaldy.github.io/workshop_web/css/try1.html)
+2. [Percobaan 2 : CSS background](https://mozaldy.github.io/workshop_web/css/try2.html)
+3. [Percobaan 3 : CSS borders](https://mozaldy.github.io/workshop_web/css/try3.html)
+4. [Percobaan 4 : Bootstrap access](https://mozaldy.github.io/workshop_web/css/try4.html)
+5. [Percobaan 5 : Bootstrap containers](https://mozaldy.github.io/workshop_web/css/try5.html)
+6. [Percobaan 6 : Bootstrap grid](https://mozaldy.github.io/workshop_web/css/try6.html)
+7. [Percobaan 7 : Bootstrap table](https://mozaldy.github.io/workshop_web/css/try7.html)
+8. [Percobaan 7 : Bootstrap Jumbotron](https://mozaldy.github.io/workshop_web/css/try8.html)
+9. [Percobaan 7 : Bootstrap alert](https://mozaldy.github.io/workshop_web/css/try9.html)
+10. [Percobaan 7 : Bootstrap button](https://mozaldy.github.io/workshop_web/css/try10.html)
+
+### F. Tugas
+[Tugas: Membuat web homepage](https://mozaldy.github.io/workshop_web/css/)
