@@ -16,9 +16,6 @@
     - [D. Percobaan](#d-percobaan-1)
     - [E. Latihan](#e-latihan-1)
     - [F. Tugas](#f-tugas-1)
-  - [Praktikum 5: CSS dan Framework](#praktikum-5-css-dan-framework)
-    - [D. Percobaan](#d-percobaan-2)
-    - [F. Tugas](#f-tugas-2)
 
 ## Praktikum 3: Konsep Fundamental HTML
 ### D. Percobaan
