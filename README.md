@@ -19,6 +19,8 @@
   - [Praktikum 5: CSS dan Framework](#praktikum-5-css-dan-framework)
     - [D. Percobaan](#d-percobaan-2)
     - [F. Tugas](#f-tugas-2)
+  - [UTS/PostTest: Membuat Toggle Pagi Dan Malam Menggunakan HTML Dan CSS](#utsposttest-membuat-toggle-pagi-dan-malam-menggunakan-html-dan-css)
+    - [Hasil Pekerjaan](#hasil-pekerjaan)
 
 ## Praktikum 3: Konsep Fundamental HTML
 ### D. Percobaan
@@ -70,3 +72,7 @@
 
 ### F. Tugas
 [Tugas: Membuat web homepage](https://mozaldy.github.io/workshop_web/css/)
+
+## UTS/PostTest: Membuat Toggle Pagi Dan Malam Menggunakan HTML Dan CSS
+### Hasil Pekerjaan
+[Hasil Pekerjaan](https://mozaldy.github.io/workshop_web/uts/)
