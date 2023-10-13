@@ -21,6 +21,13 @@
     - [F. Tugas](#f-tugas-2)
   - [UTS/PostTest: Membuat Toggle Pagi Dan Malam Menggunakan HTML Dan CSS](#utsposttest-membuat-toggle-pagi-dan-malam-menggunakan-html-dan-css)
     - [Hasil Pekerjaan](#hasil-pekerjaan)
+    - [F. Tugas](#f-tugas-3)
+  - [UTS/PostTest: Membuat Toggle Pagi Dan Malam Menggunakan HTML Dan CSS](#utsposttest-membuat-toggle-pagi-dan-malam-menggunakan-html-dan-css-1)
+    - [Hasil Pekerjaan](#hasil-pekerjaan-1)
+  - [Praktikum 6: JavaScript](#praktikum-6-javascript)
+    - [D. Percobaan](#d-percobaan-3)
+    - [E. Latihan](#e-latihan-2)
+    - [F. Tugas](#f-tugas-4)
 
 ## Praktikum 3: Konsep Fundamental HTML
 ### D. Percobaan
@@ -76,3 +83,24 @@
 ## UTS/PostTest: Membuat Toggle Pagi Dan Malam Menggunakan HTML Dan CSS
 ### Hasil Pekerjaan
 [Hasil Pekerjaan](https://mozaldy.github.io/workshop_web/uts/)
+### F. Tugas
+[Latihan: Fast Access Web Menu](https://mozaldy.github.io/workshop_web/html2/tugas.html)
+
+## UTS/PostTest: Membuat Toggle Pagi Dan Malam Menggunakan HTML Dan CSS
+### Hasil Pekerjaan
+[Hasil Pekerjaan](https://mozaldy.github.io/workshop_web/uts/)
+
+## Praktikum 6: JavaScript
+### D. Percobaan
+1. [Percobaan 1 : Hello world JavaScript](https://mozaldy.github.io/workshop_web/js/try1.html)
+2. [Percobaan 2 : JavaScript changes CSS](https://mozaldy.github.io/workshop_web/js/try2.html)
+3. [Percobaan 3 : Menghitung luas lingkaran](https://mozaldy.github.io/workshop_web/js/try3.html)
+4. [Percobaan 4 : Melihat data kalibrasi](https://mozaldy.github.io/workshop_web/js/try4.html)
+
+### E. Latihan
+[Tugas: Kalkulator keliling dan luas lingkaran dan volume kubus](https://mozaldy.github.io/workshop_web/js/latihan.html)
+
+
+### F. Tugas
+[Tugas: Membuat web homepage (Code PHP tidak bekerja dengan GitHub Pages!)](https://mozaldy.github.io/workshop_web/js/getCalib.php)
+
