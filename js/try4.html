@@ -1,63 +1,17 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-    <title>Water Vapor Instrument Calibration</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
 </head>
 <body>
-    <h1>Water Vapor Instrument Calibration</h1>
-
-    <!-- Input Measurement -->
-    <label for="inputMeasurement">Input Measurement:</label>
-    <input type="number" id="inputMeasurement" step="0.01">
-    <br>
-
-    <!-- Calibration Standards -->
-    <h2>Calibration Standards</h2>
-    <table>
-        <tr>
-            <th>Known Measurement</th>
-            <th>Instrument Reading</th>
-        </tr>
-        <tr>
-            <td><input type="number" id="standard1_known" step="0.01"></td>
-            <td><input type="number" id="standard1_instrument" step="0.01"></td>
-        </tr>
-        <tr>
-            <td><input type="number" id="standard2_known" step="0.01"></td>
-            <td><input type="number" id="standard2_instrument" step="0.01"></td>
-        </tr>
-        <!-- Add more calibration standards as needed -->
-    </table>
-
-    <!-- Calibration Button -->
-    <button onclick="calibrate()">Calibrate</button>
-
-    <!-- Calibrated Measurement -->
-    <h2>Calibrated Measurement</h2>
-    <p id="calibratedMeasurement">Calibrated measurement will be displayed here.</p>
-
-    <script>
-        function calibrate() {
-            // Get input measurement
-            const inputMeasurement = parseFloat(document.getElementById("inputMeasurement").value);
-
-            // Get calibration standards
-            const known1 = parseFloat(document.getElementById("standard1_known").value);
-            const instrument1 = parseFloat(document.getElementById("standard1_instrument").value);
-
-            const known2 = parseFloat(document.getElementById("standard2_known").value);
-            const instrument2 = parseFloat(document.getElementById("standard2_instrument").value);
-
-            // Perform linear calibration
-            const slope = (known2 - known1) / (instrument2 - instrument1);
-            const intercept = known1 - slope * instrument1;
-
-            // Calculate calibrated measurement
-            const calibratedMeasurement = slope * inputMeasurement + intercept;
-
-            // Display calibrated measurement
-            document.getElementById("calibratedMeasurement").textContent = `Calibrated Measurement: ${calibratedMeasurement.toFixed(2)}`;
-        }
-    </script>
+    <h2>Get calibration</h2>
+    <p>
+        <form method="post" action="getCalib.php">
+            enter serial number: <input type="text" name="SN" value="WV2-157">
+            <input type="submit">
+        </form>
+    </p>
 </body>
 </html>

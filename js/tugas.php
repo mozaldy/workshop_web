@@ -9,7 +9,7 @@
     <h1>Enter Station Name</h1>
 
     <!-- Input Station -->
-    <form action="getdata.php" method="post">
+    <form action="tugas.php" method="post">
         <label for="inputStation">Station:</label>
         <input type="text" id="inputStation" name="station">
         <br>
@@ -19,7 +19,7 @@
     </form>
 
     <!-- Station Data -->
-    <h2>Station Data</h2>
+    <h2>Station Data:</h2>
     <?php
     if (isset($_POST["station"])) {
         // Get station from POST data

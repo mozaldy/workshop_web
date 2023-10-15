@@ -10,15 +10,13 @@ $line = fgets($in);
 
 $found = 0;
 while ((!feof($in)) && ($found == 0)) {
-    list($SN_dat, $A, $B, $C, $beta, $tau) = fscanf(
-        $in,
-        "%s %f %f %f %f %f"
-    );
+    list($SN_dat, $A, $B, $C, $beta, $tau) = fscanf($in, "%s %f %f %f %f %f");
     if (strncasecmp($SN_dat, $SN, $len) == 0)
         $found = 1;
 }
 fclose($in);
-if($found == 0) echo "Couldn't find this instrument.";
+if ($found == 0)
+    echo "Couldn't find this instrument.";
 else {
     echo "<p><table border='2'><tr><th>Quantity</th><th>Value</th>" . "</td></tr>";
     echo "<tr><td>Instrument ID</td><td>$SN</td></tr>";

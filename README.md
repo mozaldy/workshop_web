@@ -98,7 +98,7 @@
 4. [Percobaan 4 : Melihat data kalibrasi](https://mozaldy.github.io/workshop_web/js/try4.html)
 
 ### E. Latihan
-[Tugas: Kalkulator keliling dan luas lingkaran dan volume kubus](https://mozaldy.github.io/workshop_web/js/latihan.html)
+[Latihan: Kalkulator keliling dan luas lingkaran dan volume kubus](https://mozaldy.github.io/workshop_web/js/latihan.html)
 
 
 ### F. Tugas
